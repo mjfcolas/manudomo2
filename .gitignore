@@ -18,3 +18,8 @@
 
 #Profiles
 */profiles
+
+#Front
+/front/manudomo2/node_modules
+/front/manudomo2/dist
+/front/manudomo2/config
